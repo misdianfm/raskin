@@ -1,0 +1,97 @@
+.custom-header{
+	background-color: #ffffff;
+	box-sizing: border-box;
+	color: rgb(94, 88, 83);
+	line-height: 25.6px;
+	min-height: 47px;
+	position: relative;
+	z-index: -1;
+	font-family: Lora,Baskerville,Georgia,Times,serif;
+	font-size: 16px;
+	padding-top: 60px;
+}
+
+
+.custom-header-image{
+	background-color: #ffffff;
+	background-image: url('/images/6.jpg');
+	background-attachment: fixed;
+	background-position: 50% 50%;
+	background-size: cover;
+	box-sizing: border-box;
+	color: rgb(94, 88, 83);
+	height: 100.47px;
+	line-height: 25.6px;
+	padding-top: 710px;
+	width: 100%;
+	font-family: Lora,Baskerville,Georgia,Times,serif;
+	font-size: 16px;
+}
+
+#tombol{
+	box-sizing: border-box;
+	color: rgb(94, 88, 83);
+	font-size: 16px;
+	left: 50%;
+	line-height: 25.6px;
+	margin: 0;
+	position: absolute;
+	top: 600px;
+	width: 10%;
+	z-index: 2;
+	margin-left: -50px;
+	margin-top: -50px;
+	
+}
+
+#tulisan{
+	font-family: Lora,Baskerville,Georgia,Times,serif;
+	box-sizing: border-box;
+	color: #ffffff;
+	margin: 0;
+	position: absolute;
+	top: 130px;
+	width: 100%;
+}
+
+.huruf{
+	font-family: Lora,Baskerville,Georgia,Times,serif;
+	font-size: 16px;
+}
+
+#bantuan{
+	box-sizing: border-box;
+	color: rgb(94, 88, 83);
+	font-size: 16px;
+	left: 20%;
+	line-height: 25.6px;
+	margin: 0;
+	position: absolute;
+	top: 60px;
+	width: 100%;
+	z-index: 2;
+	margin-top: -50px;
+	padding-top: 50px;
+}
+
+.custom-header-bantuan{
+	background-image: url('/images/6.jpg');
+	background-attachment: fixed;
+	background-position: 50% 50%;
+	background-size: cover;
+	box-sizing: border-box;
+	color: rgb(94, 88, 83);
+	height: 200%;
+	line-height: 25.6px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 300px;
+	width: 100%;
+	font-family: Lora,Baskerville,Georgia,Times,serif;
+	font-size: 16px;
+}
